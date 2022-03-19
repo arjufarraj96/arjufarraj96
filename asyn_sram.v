@@ -3,7 +3,7 @@
 // Design Name : ram_sp_ar_aw
 // File Name   : ram_sp_ar_aw.v
 // Function    : Asynchronous read write RAM
-// Coder       : 
+// Coder       : Arjumanth Farraj
 // Source      : 
 //-----------------------------------------------------
 
